@@ -1,6 +1,6 @@
 # PNAS_201702297
 
-This repository contains both the initial (raw) data and final time series used in Zaffos et al. 2017 Plate tectonic regulation of marine animal biodiversity. Proceedings of the National Academy of Sciences.
+This repository contains both the initial (raw) data and final time series used in Zaffos et al. 2017 Plate tectonic regulation of marine animal diversity. Proceedings of the National Academy of Sciences.
 
 ## [Raw Data](/RawData)
 
